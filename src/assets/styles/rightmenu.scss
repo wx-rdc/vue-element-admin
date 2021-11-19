@@ -1,0 +1,51 @@
+.right-menu {
+    float: right;
+    height: 100%;
+    margin-right: 10px;
+
+    .nx-help {
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    &-item {
+        display: inline-block;
+        margin: 0 8px;
+
+        .el-badge {
+            line-height: 20px;
+        }
+
+        i {
+            font-size: 20px;
+            color: #606266;
+            vertical-align: middle;
+        }
+    }
+
+    .avatar-container {
+        height: 50px;
+        display: inline-block;
+        position: relative;
+        margin-right: 35px;
+
+        .avatar-wrapper {
+            cursor: pointer;
+            margin-top: 10px;
+            position: relative;
+
+            .user-avatar {
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+            }
+
+            .el-icon-caret-bottom {
+                position: absolute;
+                right: -20px;
+                top: 25px;
+                font-size: 12px;
+            }
+        }
+    }
+}
