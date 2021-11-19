@@ -2,7 +2,7 @@
 
 [![Vue](https://img.shields.io/badge/vue-2.6.10-brightgreen.svg)](https://github.com/vuejs/vue)
 [![ElementUI](https://img.shields.io/badge/element--ui-2.7.0-brightgreen.svg)](https://github.com/ElemeFE/element)
-[![Build Status](https://app.travis-ci.com/wx-rdc/vue-element-admin.svg?branch=master)](https://app.travis-ci.com/wx-rdc/vue-element-admin)
+[![Github Build Status](https://github.com/wx-rdc/vue-element-admin/workflows/test/badge.svg?branch=master)](https://github.com/wx-rdc/vue-element-admin/actions?query=workflow%3Atest+branch%3Amaster)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/wx-rdc/vue-element-admin/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/wx-rdc/vue-element-admin.svg)](https://github.com/wx-rdc/vue-element-admin/releases)
 

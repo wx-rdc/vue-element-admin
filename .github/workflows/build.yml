@@ -1,4 +1,4 @@
-name: vue-element-admin CI
+name: test
 
 on:
   push:
